@@ -11,7 +11,7 @@
 *   **Power**: USB 5V Supply
 
 ### 2. Physical Layout & Configuration
-![Hardware Configuration](images/DM_MSTYLE_EXT_Hardware_Image.jpg)  
+![Hardware Configuration](images/DM_MSTYLE_EXT_Hardware_Image.png)  
 *(이미지 설명: 아두이노 메가와 DM-MSTYLE-EXT V1.0이 결합된 실습 환경입니다.)*
 
 | Device | Arduino Pin | MCU Port | Logic Type | Role |
